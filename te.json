@@ -1,0 +1,28 @@
+{
+  "spec": 1,
+  "name": "Minecraft Complete",
+  "main": {
+    "ggsans-Normal": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Regular.ttf",
+    "ggsans-NormalItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Italic.ttf",
+    "ggsans-Medium": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Regular.ttf",
+    "ggsans-MediumItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Italic.ttf",
+    "ggsans-Semibold": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-BoldItalic.ttf",
+    "ggsans-Bold": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-BoldItalic.ttf",
+    "NotoSans-Normal": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Regular.ttf",
+    "NotoSans-NormalItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Italic.ttf",
+    "NotoSans-Medium": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Regular.ttf",
+    "NotoSans-MediumItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Italic.ttf",
+    "NotoSans-Semibold": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Bold.ttf",
+    "NotoSans-SemiboldItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-BoldItalic.ttf",
+    "NotoSans-Bold": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Bold.ttf",
+    "NotoSans-BoldItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-BoldItalic.ttf",
+    "NotoSans-ExtraBold": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Bold.ttf",
+    "NotoSans-ExtraBoldItalic": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-BoldItalic.ttf",
+    "ABCGintoNord-ExtraBold": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Bold.ttf",
+    "SourceCodePro-Semibold": "https://github.com/tryashtar/minecraft-ttf/releases/latest/download/MinecraftDefault-Regular.ttf"
+  }
+}
