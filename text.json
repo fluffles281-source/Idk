@@ -1,0 +1,27 @@
+{
+  "spec": 1,
+  "name": "Minecraft Bold",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-MediumItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-SemiboldItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-BoldItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "NotoSans-ExtraBoldItalic": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf",
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/fluffles281-source/Idk/main/MinecraftDefault-Bold.ttf"
+  }
+}
